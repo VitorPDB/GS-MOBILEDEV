@@ -24,8 +24,8 @@ Há um aviso transitivo de dependência sem correção upstream publicada na úl
 Para obter o código:
 
 ```sh
-git clone https://github.com/VitorPDB/GS-mobile-dev.git
-cd GS-mobile-dev
+git clone https://github.com/VitorPDB/GS-MOBILEDEV.git
+cd GS-MOBILEDEV
 ```
 
 ## Executar no Windows
