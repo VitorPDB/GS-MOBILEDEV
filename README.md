@@ -17,7 +17,7 @@ https://youtu.be/mH2c3ANjEAg
 
 ## Conferência da entrega
 
-Consulte a [matriz do enunciado](docs/ENTREGA.md), o [registro de teste Android](docs/TESTE-ANDROID.md). O projeto usa análise explicável, lista de eventos e avisos no app aberto — não um modelo treinado, mapa obrigatório ou push em segundo plano.
+Consulte a [matriz do enunciado](docs/ENTREGA.md). O projeto usa análise explicável, lista de eventos e avisos no app aberto — não um modelo treinado, mapa obrigatório ou push em segundo plano.
 
 Há um aviso transitivo de dependência sem correção upstream publicada na última verificação; veja [SECURITY.md](SECURITY.md). A aprovação dos testes não significa ausência de vulnerabilidades.
 
