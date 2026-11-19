@@ -18,7 +18,7 @@ Esta matriz compara o enunciado com o código. Exportar um bundle Android não s
 | Escalabilidade | Índices por risco/bairro/fonte e histórico limitado a 30 registros | Último estado de cada grupo não depende da quantidade de outros grupos; teste com 1001 leituras de outro grupo |
 | Disponibilidade | Cache, timeout, retry, recuperação e escrita H2 sem atraso intencional | E2E derruba processo real; não há cluster de alta disponibilidade |
 | Proteção de dados | Sem nome/GPS no app; UUID pseudônimo e retenção de votos | Regras e limitações documentadas; ambientes e bancos locais excluídos da publicação |
-| Código completo no mesmo GitHub | Pastas `backend/` e `mobile/` | Código organizado em um único repositório local; publicação pendente |
+| Código completo no mesmo GitHub | Pastas `backend/` e `mobile/` | Código organizado neste repositório |
 | README com integrantes e RMs | Três integrantes identificados | Dados fornecidos pelo grupo |
 | Evolução por commits da equipe | Deve refletir contribuição real | Histórico de desenvolvimento e participação do grupo a conferir antes da entrega |
 | Demonstração API + app | Roteiro de execução e de queda/reconexão | Ensaio e vídeo final são responsabilidade do grupo |
